@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ttmdeveloper
+- 👀 I’m interested in Developing And Coding With Also Game Developing. ...
+- 🌱 I’m currently learning School ...
+- 📫 How to reach me tanmaymahanta36@gmail.com ...
+
+<!---
+ttmdeveloper/ttmdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
